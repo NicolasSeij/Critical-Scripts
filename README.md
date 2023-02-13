@@ -1,0 +1,2 @@
+# Critical-Scripts
+FiveM Script
